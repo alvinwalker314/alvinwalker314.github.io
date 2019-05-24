@@ -9,5 +9,7 @@ I found data from WWII on the types of models developed by each country. I creat
 <img src="/img/total2.png" alt="Smiley face" height="400" width="700">
 
 <a href="https://medium.com/@alvinwalker314/what-areas-of-military-development-did-the-winners-of-wwii-focus-on-most-2545895e07ef">Blog post</a>
+
 <a href="https://github.com/alvinwalker314/Datasets">Data</a>
-<a href="https://github.com/alvinwalker314/DS-Unit-1-Sprint-5-Data-Storytelling-Blog-Post/blob/master/Copy_of_Copy_of_Untitled3.ipynb>Code</a>
+
+<a href="https://github.com/alvinwalker314/DS-Unit-1-Sprint-5-Data-Storytelling-Blog-Post/blob/master/Copy_of_Copy_of_Untitled3.ipynb">Code</a>
