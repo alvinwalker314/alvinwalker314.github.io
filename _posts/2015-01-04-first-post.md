@@ -8,4 +8,4 @@ I found data from WWII on the type of models developed by each country. I create
 
 <img src="/img/total2.png" alt="Smiley face" height="400" width="700">
 
-<a href="https://medium.com/@alvinwalker314/what-areas-of-military-development-did-the-winners-of-wwii-focus-on-most-2545895e07ef">Click here>
+<a href="https://medium.com/@alvinwalker314/what-areas-of-military-development-did-the-winners-of-wwii-focus-on-most-2545895e07ef">Click here</a>
